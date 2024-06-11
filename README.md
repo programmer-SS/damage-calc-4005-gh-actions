@@ -1,7 +1,8 @@
 # damage-calc
-このモジュールでは、ダメージ計算を行うことができます。  
 
 [![Damage Calculation Test](https://github.com/programmer-SS/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/programmer-SS/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+
+このモジュールでは、ダメージ計算を行うことができます。  
 
 計算モジュールに
 
